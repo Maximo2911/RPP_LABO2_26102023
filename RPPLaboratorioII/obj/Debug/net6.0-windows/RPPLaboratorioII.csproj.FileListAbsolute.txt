@@ -1,0 +1,17 @@
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\bin\Debug\net6.0-windows\RPPLaboratorioII.exe
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\bin\Debug\net6.0-windows\RPPLaboratorioII.deps.json
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\bin\Debug\net6.0-windows\RPPLaboratorioII.runtimeconfig.json
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\bin\Debug\net6.0-windows\RPPLaboratorioII.dll
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\bin\Debug\net6.0-windows\RPPLaboratorioII.pdb
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.FrmView.resources
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.Properties.Resources.resources
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.csproj.GenerateResource.cache
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.GeneratedMSBuildEditorConfig.editorconfig
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.AssemblyInfoInputs.cache
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.AssemblyInfo.cs
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.csproj.CoreCompileInputs.cache
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.dll
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\refint\RPPLaboratorioII.dll
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.pdb
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\RPPLaboratorioII.genruntimeconfig.cache
+W:\IDE Visual Studio\C#\RPPLaboratorioII\RPPLaboratorioII\obj\Debug\net6.0-windows\ref\RPPLaboratorioII.dll
