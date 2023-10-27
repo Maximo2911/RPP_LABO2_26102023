@@ -16,14 +16,15 @@ namespace RPPLaboratorioII
             Camioneta camioneta = new Camioneta(EPropulsion.Electrica, true);
             fabrica = fabrica + camioneta;
         }
-        private void Refrescar() 
-        {
+        private void Refrescar()
+        { 
             lstVehiculos.DataSource = null;
             lstVehiculos.DataSource = Fabrica.vehiculos;
         }
         private Vehiculo crearVehiculo() 
         {
-
+            string tipoVehiculoSeleccionado = cmbTipo.SelectedIndex.ToString();
+            Vehiculo v = new tipoVehiculoSeleccionado();
         }
         private void FrmView_Load(object sender, EventArgs e)
         {

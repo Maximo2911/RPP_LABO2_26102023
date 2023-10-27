@@ -35,7 +35,7 @@ namespace Entidades
         {
             foreach(Vehiculo vehiculoComparacion in fabrica.vehiculos)
             {
-                if(vehiculoComparacion.GetType() == vehiculo.GetType() && vehiculoComparacion.numeroDeChasis == vehiculo.numeroDeChasis)
+                if(vehiculoComparacion.GetType() == vehiculo.GetType() && vehiculoComparacion.ToString() == vehiculo.ToString())
                 {
                     fabrica.vehiculos.Remove(vehiculo);
                 }
